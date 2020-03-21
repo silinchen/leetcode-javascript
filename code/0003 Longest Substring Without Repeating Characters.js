@@ -76,7 +76,7 @@
   */
 
  //abb      a->ab->abb->bb->b
- //abb      a->ab->abb->b
+ //abb      a->ab->b
 
 /**
  * 对比：假设长度是 n，左边位置是 i，右边位置是 j
