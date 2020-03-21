@@ -25,7 +25,7 @@ var twoSum = function (nums, target) {
     for (var i = 0; i < nums.length; i++) {
         var item = nums[i],
             complement = target - item
-        // 取目标值与当前项的差值，如果差值在之前已经遍历过，则取差值的索引跟当前值的索引作为结果
+        // 取目标值与当前项的差值，如果差值已经出现过，则取差值的索引跟当前值的索引作为结果
         if (numsMap.has(complement)) {
             return [numsMap.get(complement), i]
         }
@@ -33,6 +33,7 @@ var twoSum = function (nums, target) {
         !numsMap.has(item) && numsMap.set(item, i)
     }
 };
+twoSum([2,7,11,15], 9) // [0 1]
 
 // es5
 var twoSum = function (nums, target) {

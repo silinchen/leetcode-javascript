@@ -1,8 +1,14 @@
 # LeetCode solutions with JavaScript
 
-|  #   | Title                                                        | 标题                                                         |           difficulty            |
-| :--: | :----------------------------------------------------------- | ------------------------------------------------------------ | :-----------------------------: |
-|  1   | [Two Sum](https://github.com/silinchen/leetcode-javascript/blob/master/code/0001%20Two%20Sum.js) | [两数之和](https://github.com/silinchen/leetcode-javascript/blob/master/code/0001%20Two%20Sum.js) | <font color="green">Easy</font> |
-|  2   |                                                              |                                                              |                                 |
-|  3   |                                                              |                                                              |                                 |
+|  #   | Title                     | 标题                                                |            difficulty             |
+| :--: | :------------------------ | --------------------------------------------------- | :-------------------------------: |
+|  1   | [Two Sum][1]              | [两数之和][1]                                       |  <font color=#5cb85c>Easy</font>  |
+|  3   | [Longest Substring Without Repeating Characters][3] | [无重复字符的最长子串][3] | <font color=#ef6c00>Medium</font> |
+
+
+
+[1]: https://github.com/silinchen/leetcode-javascript/blob/master/code/0001%20Two%20Sum.js
+[3]: https://github.com/silinchen/leetcode-javascript/blob/master/code/0003%20Longest%20Substring%20Without%20Repeating%20Characters.js
+
+
 
