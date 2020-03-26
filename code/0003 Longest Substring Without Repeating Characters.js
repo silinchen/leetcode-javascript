@@ -84,8 +84,14 @@
  * 优化后，每次移动 j+1，i 则判断新增加的字符在窗口内的位置，直接设置i 的位置就行。循环次数是 n 次
  */
 
-
-// 方法三：优化滑动窗口
+/**
+ * 方法三：优化滑动窗口
+ * 
+ * Runtime: 80~84ms
+ * Memory: 37.6~38MB
+ * 
+ * @param {*} s 
+ */
 var lengthOfLongestSubstring = function(s) {
   // 记录最长的不重复子字符串的长度
   var ans = 0
