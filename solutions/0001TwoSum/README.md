@@ -41,7 +41,17 @@ Example:
 
 
 
+### 代码实现：
+
 ```javascript
+/**
+ * Runtime: 40~64ms
+ * Memory: 35.1~35.4MB
+ *
+ * @param {number[]} nums
+ * @param {number} target
+ * @return {number[]}
+ */
 var twoSum = function (nums, target) {
     // map 表，缓存已经遍历过的唯一 item，跟对应的 index，可以使用普通对象替代 map
     var numsMap = new Map()
