@@ -10,7 +10,7 @@ LeetCode 的题目，使用 JavaScript 解决。代码中增加注释，方便�
 
 
 
-[1]: https://github.com/silinchen/leetcode-javascript/tree/master/solutions/0001TwoSum
-[3]: https://github.com/silinchen/leetcode-javascript/tree/master/solutions/0003LongestSubstringWithoutRepeatingCharacters
-[4]: https://github.com/silinchen/leetcode-javascript/tree/master/solutions/0004MedianOfTwoSortedArrays
+[1]: https://github.com/silinchen/leetcode-javascript/tree/master/solutions/0001-two-sum
+[3]: https://github.com/silinchen/leetcode-javascript/tree/master/solutions/0003-longest-substring-without-repeating-characters
+[4]: https://github.com/silinchen/leetcode-javascript/tree/master/solutions/0004-median-of-two-sorted-arrays
 
